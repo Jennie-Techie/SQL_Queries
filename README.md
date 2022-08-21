@@ -2,7 +2,7 @@
 
 ### This project involves the querying of a sales database for a retail store to generate reports.
 
-To achieve the following SQL syntax and queries were used:
+### The following SQL syntax and queries were used:
 
 **SELECT**
 
