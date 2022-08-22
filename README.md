@@ -1,6 +1,6 @@
 # SQL_Queries
 
-### This project involves the querying of a sales database for a retail store to generate reports.
+#### This project involves the querying of a sales database for a retail store to generate reports. The doubles as a guide on using sql to query a database. 
 
 ### The following SQL syntax and queries were used:
 
