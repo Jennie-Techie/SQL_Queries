@@ -1,8 +1,8 @@
-# Exploratory Data Analysis using SQL_Queries
+# Exploratory Data Analysis using SQL Queries
 
-#### This project involves the querying of a sales database for a retail store to generate reports. The doubles as a guide on using sql to query a database. 
+#### This project involves the querying of a sales database for a retail store to generate reports. It is written in the form of a tutorial as it has been used several times to teach sql to my data analytics students. 
 
-### The following SQL syntax and queries were used:
+### The following SQL syntax were used:
 
 **SELECT**
 
